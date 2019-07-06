@@ -1,6 +1,6 @@
 # processing_templates
 
-TODO: ここに自分の作成したprocessing codeの簡単な内容を紹介してください．
+TODO: ここに自分の作成したprocessing codeの簡単な内容を
 
 ## Installation
 
