@@ -1,36 +1,18 @@
-# processing_templates
+# サッカーゲーム
 
-TODO: ここに自分の作成したprocessing codeの簡単な内容を
+ボールを動かしてパスとシュートをしてゴールするゲーム
 
 
 ## Usage
 
-TODO: ここに使い方を書いてください．
+A、D、W、Sで左、右、上、下にボールが動き人から人に行くまでは１つしかおせない
 
 ## Code review
 
-TODO: ここにcodeの概要と，どのような意図で作成したかを書いてください．
-どこの誰のコードを基にして書いたかの引用を忘れずに．
-
-sampleをそれぞれのdirectoryに置いています．
-
-今見ている，README.mdはmark downで書いています．
-
-robotx_class/REAME.orgはorg-modeで書いています．コードも綺麗にカラー表示されているでしょう．
-
-もちろんmark downでもcodeを綺麗に表示できます．
-書き方は，googleで調べてください．
-
-``` java
-rect(0, 0, 10, 10);
-```
-なんかです．
-
+人やボール、ゴール、コートは自分で作りました。
+わからないところは教科書を参考にしました。
 ## License
 
-ここではサンプルとしてMITライセンスの表示をしています．Creative commonsとかLGPLでもOKです．
-[Githubのライセンシングを解説した記事](https://www.catch.jp/oss-license/2013/09/10/github/)は
-とても参考になります(だいぶその時...2013か...からは改訂されてるけど)．
 
 The processing application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
