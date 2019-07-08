@@ -13,8 +13,7 @@ A、D、W、Sで左、右、上、下にボールが動き人から人に行く�
 わからないところは教科書を参考にしました。
 ## License
 
-
-The processing application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Source code is available under the Creative Commons Attribution-ShareAlike License cc by Ren Y 2019
 
 ## Code of Conduct
 
